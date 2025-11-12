@@ -1,0 +1,122 @@
+[
+  {
+    "slug": "build-factory",
+    "name": "Build Factory",
+    "type": "industry",
+    "cost": 3,
+    "summary": "+10 GDP from Industry each turn",
+    "concept": "Investing in manufacturing boosts long run productive capacity."
+  },
+  {
+    "slug": "tax-cut",
+    "name": "Tax Cut",
+    "type": "policy",
+    "cost": 2,
+    "summary": "+3 Happiness / turn, −2 Cash next turn",
+    "concept": "Lower taxes put money in citizens’ pockets but shrink short-term revenue."
+  },
+  {
+    "slug": "trade-deal",
+    "name": "Trade Deal",
+    "type": "event",
+    "cost": 2,
+    "summary": "+5 GDP and +5 Cash immediately",
+    "concept": "Opening trade routes quickly boosts exports and treasury funds."
+  },
+  {
+    "slug": "inflation-spike",
+    "name": "Inflation Spike",
+    "type": "event",
+    "cost": 3,
+    "summary": "Opponent −10 Stability",
+    "concept": "Runaway prices shake public confidence in leadership."
+  },
+  {
+    "slug": "green-energy",
+    "name": "Green Energy",
+    "type": "policy",
+    "cost": 3,
+    "summary": "+8 GDP, +3 Happiness",
+    "concept": "Clean energy jobs grow the economy and keep citizens optimistic."
+  },
+  {
+    "slug": "health-program",
+    "name": "Health Program",
+    "type": "social",
+    "cost": 3,
+    "summary": "+10 Stability",
+    "concept": "Healthcare spending keeps your population resilient."
+  },
+  {
+    "slug": "technology-boom",
+    "name": "Technology Boom",
+    "type": "industry",
+    "cost": 4,
+    "summary": "+12 GDP / turn, +2 Happiness / turn",
+    "concept": "Innovation hubs create both wealth and excitement."
+  },
+  {
+    "slug": "recession",
+    "name": "Recession",
+    "type": "event",
+    "cost": 3,
+    "summary": "Both −5 GDP; you gain +3 Happiness",
+    "concept": "Short-term pain everywhere, but reforms impress your citizens."
+  },
+  {
+    "slug": "tourism-boost",
+    "name": "Tourism Boost",
+    "type": "social",
+    "cost": 2,
+    "summary": "+6 Happiness",
+    "concept": "Festivals and campaigns attract visitors and smiles."
+  },
+  {
+    "slug": "price-controls",
+    "name": "Price Controls",
+    "type": "policy",
+    "cost": 2,
+    "summary": "Opponent industries −3 GDP next 2 turns",
+    "concept": "Capping prices can slow rivals’ production."
+  },
+  {
+    "slug": "natural-disaster",
+    "name": "Natural Disaster",
+    "type": "event",
+    "cost": 4,
+    "summary": "Opponent −15 Stability",
+    "concept": "You allocate relief quickly, but rivals take the political hit."
+  },
+  {
+    "slug": "education-reform",
+    "name": "Education Reform",
+    "type": "policy",
+    "cost": 3,
+    "summary": "+2 GDP and +2 Happiness per turn",
+    "concept": "Schools and training grow workers’ skills and optimism."
+  },
+  {
+    "slug": "small-business-grant",
+    "name": "Small Business Grant",
+    "type": "industry",
+    "cost": 2,
+    "summary": "+5 GDP / turn",
+    "concept": "Micro-loans let entrepreneurs expand production."
+  },
+  {
+    "slug": "strike",
+    "name": "Strike",
+    "type": "event",
+    "cost": 2,
+    "summary": "Opponent −5 GDP",
+    "concept": "Labor actions can freeze a rival’s output."
+  },
+  {
+    "slug": "happiness-festival",
+    "name": "Happiness Festival",
+    "type": "social",
+    "cost": 3,
+    "summary": "+8 Happiness, +5 Stability",
+    "concept": "Celebrate culture to calm citizens and lift morale."
+  }
+]
